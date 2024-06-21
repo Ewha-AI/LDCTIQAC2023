@@ -1,0 +1,9 @@
+numpy
+opencv-python==4.5.1.48
+torch>=1.6.0
+torchvision>=0.10.0
+tqdm
+einops
+pandas
+evalutils==0.2.4
+timm

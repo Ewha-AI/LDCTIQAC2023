@@ -1,0 +1,6 @@
+evalutils==0.2.4
+scikit-learn
+scipy
+tqdm
+opencv-python
+torchvision
