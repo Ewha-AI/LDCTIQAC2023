@@ -18,11 +18,11 @@ This repository contains the source code for the models submitted to the [Low-do
 
 The code in this repository is for inference. To test the models locally, edit the paths for the input file, the output file, and the model weights in `process.py`, and then run `process.py`. `process.py` expects a 3D volume as input. When a 3D volume is provided, assessments of each slice in the volume will be conducted. 
 
-For training, implement the model code into the user's project. The dataset for training the models can be downloaded from [Zenodo]().
+For training, implement the model code into the user's project. The dataset for training the models can be downloaded from [Zenodo](https://zenodo.org/records/7833096#.ZEFywOxBzn5).
 
 ## Reference Docker
 
-These codes are built based on the reference docker, which is for submitting to the [challenge website](). Refer to this [repository]() for the reference docker.
+These codes are built based on the reference docker, which is for submitting to the [challenge website](https://ldctiqac2023.grand-challenge.org/). Refer to this [repository](https://github.com/Ewha-AI/LDCTIQAC_reference_docker) for the reference docker.
 
 ## Citation
 
