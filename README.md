@@ -19,6 +19,7 @@ This repository contains the source code for the models submitted to the [Low-do
 The code in this repository is for inference. To test the models locally, edit the paths for the input file, the output file, and the model weights in `process.py`, and then run `process.py`. `process.py` expects a 3D volume as input. When a 3D volume is provided, assessments of each slice in the volume will be conducted. 
 
 For training, implement the model code into the user's project. The dataset for training the models can be downloaded from [Zenodo](https://zenodo.org/records/7833096#.ZEFywOxBzn5).
+Test data is available [here](https://drive.google.com/file/d/1DbZfTj4it-3QRTuJO73r1iQyHLRwPS6H/view?usp=sharing).
 
 The model weights can be downloaded from this [link](https://drive.google.com/drive/folders/1okL-YTiFlwogmF_tvYjCxGsUKV2DJ2u0?usp=sharing).
 
